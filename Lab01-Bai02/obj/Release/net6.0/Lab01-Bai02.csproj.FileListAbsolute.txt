@@ -1,0 +1,15 @@
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\bin\Release\net6.0\Lab01-Bai02.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\bin\Release\net6.0\Lab01-Bai02.deps.json
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\bin\Release\net6.0\Lab01-Bai02.runtimeconfig.json
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\bin\Release\net6.0\Lab01-Bai02.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\bin\Release\net6.0\Lab01-Bai02.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.AssemblyInfoInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.AssemblyInfo.cs
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\refint\Lab01-Bai02.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\Lab01-Bai02.genruntimeconfig.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab01-Bai02\obj\Release\net6.0\ref\Lab01-Bai02.dll

@@ -1,0 +1,16 @@
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\Lab04-Bai4.exe.config
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\Lab04-Bai4.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\Lab04-Bai4.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\EntityFramework.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\EntityFramework.SqlServer.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\EntityFramework.xml
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04_Bai4.frmThongTinDonHang.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04_Bai4.Properties.Resources.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.csproj.GenerateResource.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.csproj.CopyComplete
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab04\Lab04-Bai4\obj\Debug\Lab04-Bai4.pdb

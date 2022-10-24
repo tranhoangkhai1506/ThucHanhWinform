@@ -1,0 +1,16 @@
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\bin\Debug\Lab03.exe.config
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\bin\Debug\Lab03.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\bin\Debug\Lab03.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\bin\Debug\Interop.WMPLib.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\bin\Debug\AxInterop.WMPLib.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03-Bai01.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03-Bai01.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Interop.WMPLib.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\AxInterop.WMPLib.dll
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03-Bai01.csproj.ResolveComReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03.WMP.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03-Bai01.csproj.GenerateResource.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03-Bai01.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03\obj\Debug\Lab03.pdb

@@ -1,0 +1,12 @@
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\bin\Debug\Lab03-Bai03.exe.config
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\bin\Debug\Lab03-Bai03.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\bin\Debug\Lab03-Bai03.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03_Bai03.QuanLySinhVien.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03_Bai03.Properties.Resources.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.csproj.GenerateResource.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03-Bai03.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab03-Bai03\obj\Debug\Lab03_Bai03.ThemSinhVien.resources

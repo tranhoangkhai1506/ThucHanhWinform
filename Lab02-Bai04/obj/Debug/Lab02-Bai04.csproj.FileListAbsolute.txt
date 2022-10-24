@@ -1,0 +1,11 @@
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\bin\Debug\Lab02-Bai04.exe.config
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\bin\Debug\Lab02-Bai04.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\bin\Debug\Lab02-Bai04.pdb
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.csproj.AssemblyReference.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02_Bai04.frmQLTK.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02_Bai04.Properties.Resources.resources
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.csproj.GenerateResource.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.csproj.CoreCompileInputs.cache
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.exe
+D:\TaiLieuDaiHoc\WinFormC#\ThucHanh\Lab02-Bai04\obj\Debug\Lab02-Bai04.pdb

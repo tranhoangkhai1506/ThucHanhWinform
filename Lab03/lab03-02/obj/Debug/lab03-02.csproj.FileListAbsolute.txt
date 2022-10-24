@@ -1,0 +1,11 @@
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\bin\Debug\lab03-02.exe.config
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\bin\Debug\lab03-02.exe
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\bin\Debug\lab03-02.pdb
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.csproj.AssemblyReference.cache
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.csproj.SuggestedBindingRedirects.cache
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03_02.Form1.resources
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03_02.Properties.Resources.resources
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.csproj.GenerateResource.cache
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.csproj.CoreCompileInputs.cache
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.exe
+E:\File H\VS code\TH_Winform\Buoi_3\lab03-02\obj\Debug\lab03-02.pdb
